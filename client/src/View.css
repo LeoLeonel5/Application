@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+.hero{
+    height: 100vh;
+    width: 100%;
+    background: #edf2fc;
+    font-family: sans-serif;
+    position: relative;
+  }
+  
+nav{
+  width: 95%;
+  margin: auto;
+  padding: 20px 0;
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+  }
+  
+.logo{
+  width: 111px;
+  cursor: pointer;  
+  }
+  
+nav ul li{
+  display:inline-block;
+  list-style:none;
+  margin: 10px 20px;
+  }
+  
+nav ul li button{
+  color:teal;
+  }
+  
+nav ul li a:hover{
+  color: #ff4321;
+  }
+
+.Image{
+  text-align: center;
+  justify-content: center;
+  margin-left: 23%;
+  margin-top: -8%;
+  width: 56%;
+}
+
+button{
+  background:lavender;
+  padding: 10px 18px;
+  text-decoration: none;
+  text-decoration-color: white;
+  display: inline-block;
+  margin: 30px 0;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 90%;
+  }
+    

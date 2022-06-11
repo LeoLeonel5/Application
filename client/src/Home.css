@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  .heroes{
+    height:100vh;
+    width: 100%;
+    background:linear-gradient(rgba(4, 160, 244, 0.3), rgba(9, 232, 120, 0.3));
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  .information{
+    margin-left: 2%;
+    margin-top: 20%;
+    position:fixed;
+  }
+  
+  .information span{
+    color:lavender;
+    font-size: 70px;
+    text-align: center;
+    font-weight: 55%;
+    position:relative;
+  }
+  
+  .title{
+    font-size: 55px;
+    color:aliceblue;
+    text-align: center;
+    font-weight: 100%;
+    position:absolute;
+  }
+  

@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e438bd4c.css",
+    "main.js": "/static/js/main.e7f447b6.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Resume.ico": "/static/media/Resume.ff49fa137dc19708bdfb.ico",
+    "static/media/Resume.pdf": "/static/media/Resume.6f5adfd918bcc6e169e3.pdf",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/leo.ico": "/static/media/leo.432f87f5159037d79249.ico",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/image.ico": "/static/media/image.c01a6bb747a615c10f79.ico",
+    "index.html": "/index.html",
+    "main.e438bd4c.css.map": "/static/css/main.e438bd4c.css.map",
+    "main.e7f447b6.js.map": "/static/js/main.e7f447b6.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e438bd4c.css",
+    "static/js/main.e7f447b6.js"
+  ]
+}
